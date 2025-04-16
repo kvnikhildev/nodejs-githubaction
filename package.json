@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha",
     "lint": "eslint ."
+    "coverage": "nyc npm test"
   },
   "keywords": [],
   "author": "",
