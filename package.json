@@ -1,0 +1,17 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app with Mocha and ESLint",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "mocha": "^10.2.0"
+  }
+}
