@@ -23,8 +23,8 @@ jobs:
         run: npm run lint
 
       - name: unit test 
-        run: npm test   
+        run: npm run test   
       - name: code coverage 
-        run: npm coverage
+        run: npm run coverage
 
 
