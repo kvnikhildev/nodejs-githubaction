@@ -16,7 +16,7 @@ jobs:
       
       - name: Install dependencies
         run: |
-            npm Install
+            npm install
             
 
       - name: Test lint 
